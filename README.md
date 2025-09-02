@@ -12,6 +12,10 @@ Welcome ! I am Awa, passionate for Data. Here are my Power BI and Python persona
 - [...](powerbi/rapport-ventes.md)
 - [...](powerbi/rapport-marketing.md)
 
+## 🔍 Microsoft Excel
+- [Examples of charts](powerbi/rapport-ventes.md)
+- [...](powerbi/rapport-marketing.md)
+
 ## 🐍 Python (coming ...)
 - [Myopia prediction](python/analyse-client.ipynb)
 - [NLP Customers Reviews](python/prediction-churn.py)
