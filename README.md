@@ -8,6 +8,10 @@ Welcome ! I am Awa, passionate for Data. Here are my Power BI and Python persona
 - [Recreation Hans Rosling famous visualisation](powerbi/rapport-ventes.md)
 - [CRM typical dashboard](powerbi/rapport-marketing.md)
 
+## 🔍 SQL
+- [...](powerbi/rapport-ventes.md)
+- [...](powerbi/rapport-marketing.md)
+
 ## 🐍 Python (coming ...)
 - [Myopia prediction](python/analyse-client.ipynb)
 - [NLP Customers Reviews](python/prediction-churn.py)
