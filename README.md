@@ -41,5 +41,5 @@ Enjoy !
 - [NLP Customers Reviews](python/prediction-churn.py)
 
 ## 📬 Contact
-You can find me on [LinkedIn](linkedin.com/in/awa-traoré-diop) or by email awatradiop@gmail.com
+You can find me on [linkedin.com/in/awa-traoré-diop](linkedin.com/in/awa-traoré-diop) or by email awatradiop@gmail.com
 
