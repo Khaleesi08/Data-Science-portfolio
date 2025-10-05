@@ -1,4 +1,4 @@
-Thrive in the future
+Storytelling with Data
 
 # Portfolio Data Science & Analytics
 
