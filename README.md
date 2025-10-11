@@ -24,21 +24,20 @@ Here are my personal projects👩🏽‍💻.
 
 Enjoy !
 
+## 🔍 Microsoft Excel
+- [Examples of charts](powerbi/rapport-ventes.md)
+
+## 🐍 Python 
+- [Data Viz](subplots.ipynb)
+- [NLP Customers Reviews](nlp_verbatim_google.ipynb)
+
 ## 🔍 Power BI (coming ...)
 - [Recreation Hans Rosling famous visualisation](powerbi/rapport-ventes.md)
 - [CRM typical dashboard](powerbi/rapport-marketing.md)
 
-## 🔍 SQL
+## 🔍 SQL (coming ...)
 - [...](powerbi/rapport-ventes.md)
 - [...](powerbi/rapport-marketing.md)
-
-## 🔍 Microsoft Excel
-- [Examples of charts](powerbi/rapport-ventes.md)
-- [...](powerbi/rapport-marketing.md)
-
-## 🐍 Python (coming ...)
-- [Myopia prediction](python/analyse-client.ipynb)
-- [NLP Customers Reviews](python/prediction-churn.py)
 
 ## 📬 Contact
 You can find me on [linkedin.com/in/awa-traoré-diop](linkedin.com/in/awa-traoré-diop) or by email awatradiop@gmail.com
